@@ -1,0 +1,22 @@
+{
+    "Group": "org.serverutils.tpa",
+    "Name": "Server Utils TPA",
+    "Version": "1.0.0",
+    "Description": "UNDEFINED",
+    "Authors": [
+        {
+            "Name": "rater193"
+        }
+    ],
+    "Website": "https://hytalemythsandlegends.com/",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "org.serverutilstpa.Plugin",
+    "IncludesAssetPack": true
+}
